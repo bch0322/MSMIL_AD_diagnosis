@@ -8,7 +8,7 @@
 
 ## Results
 #### 1. Visualization of the Patches that Contributed the Most to the Prediction
-<img src="./img/fig_2.png" width="50%" height="50%" title="Alzheimer's disease" alt="Framework" align="right"></img>
+<img src="./img/fig_2.png" width="50%" height="50%" title="Alzheimer's disease" alt="Framework" align="center"></img>
 
 #### 2. Changes of Class Evidence Distribution by Adding Key Instance Detection
 <img src="./img/fig_3.png" width="50%" height="50%" title="Alzheimer's disease" alt="Framework"></img>
