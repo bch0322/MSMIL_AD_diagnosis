@@ -11,4 +11,4 @@
 <p align="center"><img src="./img/fig_2.png" width="30%" height="30%" title="Alzheimer's disease" alt="Framework"></img></p>
 
 #### 2. Changes of Class Evidence Distribution by Adding Key Instance Detection
-<p align="center"><img src="./img/fig_3.png" width="30%" height="30%" title="Alzheimer's disease" alt="Framework"></img></p>
+<p align="center"><img src="./img/fig_3.png" width="50%" height="50%" title="Alzheimer's disease" alt="Framework"></img></p>
