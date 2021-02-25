@@ -6,8 +6,9 @@
 ## Overall Framework
 <img src="./img/fig_1.png" width="100%" height="100%" title="Alzheimer's disease" alt="Framework"></img>
 
-## Visualiztion of the patches whose class evidence is the highest over the brain depending on the size of patch
+## Results
+#### 1. Visualization of the Patches that Contributed the Most to the Prediction
 <img src="./img/fig_2.png" width="50%" height="50%" title="Alzheimer's disease" alt="Framework"></img>
 
-## 
+#### 2. Changes of Class Evidence Distribution by Adding Key Instance Detection
 <img src="./img/fig_3.png" width="50%" height="50%" title="Alzheimer's disease" alt="Framework"></img>
