@@ -3,6 +3,11 @@
 ## An Interpretable Alzheimer’s Disease Diagnosis Model Based on Multi Scale Multi Instance Learning   
 박창현, and 석흥일. "다중-크기 다중-인스턴스 학습 기반 해석 가능한 알츠하이머병 진단 모델." 한국정보과학회 학술발표논문집 (2020): 584-586.
 
+## Overall Framework
 <img src="./img/fig_1.png" width="100%" height="100%" title="Alzheimer's disease" alt="Framework"></img>
+
+## Visualiztion of the patches whose class evidence is the highest over the brain depending on the size of patch
 <img src="./img/fig_2.png" width="50%" height="50%" title="Alzheimer's disease" alt="Framework"></img>
+
+## 
 <img src="./img/fig_3.png" width="50%" height="50%" title="Alzheimer's disease" alt="Framework"></img>
