@@ -1,4 +1,4 @@
-# MSMIL (multi-scale multiple instance learning) AD diagnosis
+# MSMIL (Multi-Scale Multiple Instance Learning) AD diagnosis
 
 ## An Interpretable Alzheimer’s Disease Diagnosis Model Based on Multi Scale Multi Instance Learning   
 박창현, and 석흥일. "다중-크기 다중-인스턴스 학습 기반 해석 가능한 알츠하이머병 진단 모델." 한국정보과학회 학술발표논문집 (2020): 584-586.
